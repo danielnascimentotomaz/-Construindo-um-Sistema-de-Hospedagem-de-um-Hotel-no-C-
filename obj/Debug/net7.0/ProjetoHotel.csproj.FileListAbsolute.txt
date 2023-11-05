@@ -1,0 +1,45 @@
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.exe
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\bin\Debug\net7.0\ProjetoHotel.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\refint\ProjetoHotel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ProjetoHotel.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\ProjetoHotel\obj\Debug\net7.0\ref\ProjetoHotel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\refint\ProjetoHotel.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ref\ProjetoHotel.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.exe
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.deps.json
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.runtimeconfig.json
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\bin\Debug\net7.0\ProjetoHotel.pdb
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.AssemblyInfo.cs
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\refint\ProjetoHotel.dll
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.pdb
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ProjetoHotel.genruntimeconfig.cache
+C:\Users\danie\OneDrive\CURSOS TECNOLOGIA\PROJETO\CURSO C#\08-PROJETO\03-Sistema de Hospedagem de um Hotel\obj\Debug\net7.0\ref\ProjetoHotel.dll
